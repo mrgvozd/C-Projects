@@ -1,2 +1,2 @@
 # C-Projects
-Presentation if my C++ projects
+Presentations of my C++ projects
